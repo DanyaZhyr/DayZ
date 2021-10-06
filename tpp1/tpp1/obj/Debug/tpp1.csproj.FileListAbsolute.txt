@@ -1,0 +1,10 @@
+C:\Users\danya\source\repos\tpp1\tpp1\bin\Debug\tpp1.exe.config
+C:\Users\danya\source\repos\tpp1\tpp1\bin\Debug\tpp1.exe
+C:\Users\danya\source\repos\tpp1\tpp1\bin\Debug\tpp1.pdb
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.Form1.resources
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.Properties.Resources.resources
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.csproj.GenerateResource.cache
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.exe
+C:\Users\danya\source\repos\tpp1\tpp1\obj\Debug\tpp1.pdb
